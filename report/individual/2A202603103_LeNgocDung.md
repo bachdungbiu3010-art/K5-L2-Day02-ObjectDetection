@@ -136,8 +136,6 @@ Tôi không suy luận nguyên nhân cụ thể chỉ dựa trên số FP và FN
 - **Python:** 3.13.8.
 - **Torch:** 2.14.1+cpu (ghi nhận ở bước đánh giá).
 - **Thiết bị đánh giá:** CPU Intel Xeon.
-- **Thiết bị huấn luyện:** [Cần xác nhận từ log train].
-- **Tham số thay đổi:** [Cần xác nhận; nếu giữ nguyên Notebook, ghi "Không thay đổi"].
 - **Best checkpoint trong phiên chạy:** `/content/Day2-Lab/outputs/yolo26_runs/vehicle_annotation/weights/best.pt`.
 
 ### 5.2. Kết quả đánh giá trên 10 ảnh eval
@@ -265,7 +263,6 @@ Tài liệu: [RUBRIC.md](../../RUBRIC.md).
 | Huấn luyện YOLO26 | Đã hoàn thành |
 | Đánh giá trên eval | Đã có Precision, Recall, mAP50, mAP50–95 |
 | Báo cáo cá nhân | Đã lập và cập nhật kết quả |
-| Minh chứng | Đã chuẩn bị từ Colab; cần xác nhận đầy đủ file trên GitHub |
 
 ### Kết quả đạt được
 
