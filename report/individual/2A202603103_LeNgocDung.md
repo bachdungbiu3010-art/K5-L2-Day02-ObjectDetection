@@ -6,7 +6,7 @@
 - **MSSV:** 2A202603103
 - **Email:** bachdungbiu3010@gmail.com
 - **Lớp:** K5-L2A
-- **Link Repository:** https://github.com/bachdungbiu3010-art/K5-L2-Day02-ObjectDetection
+- **Link Repository:** https://github.com/bachdungbiu3010-art/K5-L2A-DAY02-LeNgocDung-2A202603103-ObjectDetection
 - **Link Notebook Colab:** https://colab.research.google.com/github/bachdungbiu3010-art/K5-L2-Day02-ObjectDetection/blob/main/notebooks/day2_annotation_to_yolo.ipynb
 
 ## 2. Schema và Mini Guideline
